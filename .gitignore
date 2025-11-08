@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.Python
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*~ 
+.vscode/
+.idea/
+*.log
+
+# Termux/Ubuntu system files
+*.sqlite
+*.db
+
+# Keys (just in case)
+id_*
+*.pem
+
+# Node modules if they ever appear
+node_modules/
+
